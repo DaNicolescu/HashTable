@@ -1,11 +1,11 @@
 HashTable  
-	hash.h contine definirea structurii TH (Hash table-ul) si prototipurile
+        hash.h contine definirea structurii TH (Hash table-ul) si prototipurile
 functiilor. lista.h contine typedef-urile pentru pointerii la functii si
 definirea structurilor TCelulaG si TInfo. functions.c contine definirea
 functiilor, iar hash.c contine int main-ul.  
-    In hash.c se realizeaza citirea din fisier si apelarea functiilor
+        In hash.c se realizeaza citirea din fisier si apelarea functiilor
 corespunzatoare.  
-    Functia IniTH aloca memorie pentru Hash table si atribuie pointerii
+        Functia IniTH aloca memorie pentru Hash table si atribuie pointerii
 la functiile hash, de comparare a cheilor, de afisare si eliberare a cheii 
 structurii TH. Pointerii la functii depind de tipul cheii, acestia fiind 
 determinati in main.  
