@@ -1,3 +1,4 @@
+HashTable
 	hash.h contine definirea structurii TH (Hash table-ul) si prototipurile
 functiilor. lista.h contine typedef-urile pentru pointerii la functii si
 definirea structurilor TCelulaG si TInfo. functions.c contine definirea
